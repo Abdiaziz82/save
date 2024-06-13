@@ -1,0 +1,248 @@
+.list {
+    list-style-type: none;
+    text-decoration: none;
+    margin :0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+
+}
+header {
+   display: flex; 
+   justify-content: space-around;
+align-items: center;
+background-color: rgb(192, 49, 49);
+padding-bottom: 0px;
+padding-top: 30px;
+margin-top:-40px;
+margin-right: -7px;
+margin-left: -7px;
+}
+header h1 {
+   color: blue;
+   font-size: 2rem;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+padding-bottom: 33px;
+}
+nav a {
+    text-decoration: none;
+    color: black
+    
+}
+nav a:hover{
+   color: white;
+   
+   border:  7px white dotted;
+}
+.image {
+ 
+   top: 0;
+   left: 0;
+   padding-top: 80px;
+   border: none;
+}
+
+
+
+nav ul li {
+    margin: 0 50px;
+    padding: 0;
+
+  }
+ /* .my-button {
+    cursor: pointer;
+    border: none;
+    margin-left: 200px;
+    font-size: 1rem;
+    background-color:#229954  ;
+   padding:10px 20px;
+   border: none;
+   border-radius: 5px;
+ } */
+ .empower {
+    font-size:60px;
+    padding-left: 200px;
+   padding-bottom: 0px;
+    color: lightgreen;
+display: inline-block;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+   
+    
+ }
+ /* .heading2 {
+    padding-top: 100px;
+ } */
+
+   
+
+
+body{
+   padding:0;
+   margin: 0;
+   width: 100%;
+   height: 100vh;
+   box-sizing: border-box;
+
+
+}
+.heading2 {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+
+.fa-apple {
+   vertical-align: middle;
+position:absolute;
+left: 30px;
+  top: 30%;
+  color:white;
+  font-size: 23px;
+
+}
+.p1 {
+   font-size: 25px;
+   font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   padding-left: 150px;
+   padding-bottom: 40px;
+   display: flex;
+   justify-content: space-around;
+
+}
+.btn11{
+   padding-left: 30px;
+   padding-right: 30px;
+margin-top: 25px;
+   border-radius: 1px;
+   background-color: #1F618D;
+   color: white;
+   font-size: 15px;
+   border: 0.3px solid;
+  margin-bottom: 20px;
+
+   }
+.btn11:hover{
+   background-color: black;
+}
+.partner2{
+   margin-left: 210px;
+ margin-bottom: 100px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ padding-left: 70px;
+ padding-right: 70px;
+ display: block;
+ margin-top: -60px;
+ border-radius: 10px;
+ text-align: center;
+ font-size: 2rem;
+ color:white;
+ background-color: #0B5345 ;
+ border: none;
+ font-family: 'Times New Roman', Times, serif;
+}
+.fa-layer-group{
+   font-size:2rem;
+   color: black;
+   padding-right: 10px;
+}
+.educate {
+   background-image: url(/image\ copy\ 3.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+ 
+  
+}
+.section-1 {
+background-color: #1F618D;
+padding-bottom: 20px;
+
+  }
+  .section-2 {
+   background-color:gray;
+  padding:70px;
+  display: flex;
+ align-items: center;
+ justify-content: space-around;
+  
+ 
+  
+
+
+
+  }
+  .image-youth {
+  max-width: 100%;
+  left: 0%;
+ 
+  
+  }
+
+  .display{
+  
+   font-size: 2rem;
+   
+   text-wrap: balance;
+
+     font-family: "Teko", sans-serif;
+     font-optical-sizing: auto;
+     /* font-weight: <weight>; */
+     font-style: normal;
+   }
+
+
+
+
+ 
+  
+  .container {
+   display: flex;
+   align-items: center;
+flex-wrap: nowrap;
+justify-content: space-around;
+  }
+
+  .sec2 {
+   height: 60vh;
+  }
+  #learn-button {
+   /* padding:70px ;
+   margin-bottom: 30px;
+   margin-right: 50px;
+   padding-left: 50px; */
+   padding: 0px 20px;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border-radius: 20px;
+   background-color: #424949 ;
+
+  }
+  .display2 {
+   text-align: justify;
+   padding-bottom: 590px;
+   padding-left: 60px;
+font-size: 2rem;
+
+  }
+  #im2 {
+   padding-right: 90px;
+  }
+  .btnwatch {
+   padding-left: 70px;
+   padding-right: 80px;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   border-radius: 18px;
+   background-color: #17202A ;
+   
+
+  }
+  .emoji {
+   padding-top: 480px;
+   padding-right: 70px;
+   
+  }
